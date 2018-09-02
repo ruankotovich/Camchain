@@ -1,0 +1,17 @@
+.on{
+    font-family: 'courier new', courier, monospace;
+    margin: 5%;
+    text-align: center;
+    vertical-align: middle;
+    background-color: #008800;
+    color: white;
+}
+
+.off{
+    font-family: 'courier new', courier, monospace;
+    margin: 5%;
+    text-align: center;
+    vertical-align: middle;
+    background-color: #880000;
+    color: white;
+}
