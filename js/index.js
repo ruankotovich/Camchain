@@ -1,5 +1,5 @@
 const SEND_DATA_URI = 'http://localhost:8080/mineBlock';
-const DATE_TEMPLATE = 'Surveilance Camera #3';
+const DATE_TEMPLATE = 'Surveillance Cam Site #3';
 const Images = {
     0: 'none.jpg', 1: 'television.jpg', 2: 'aircondictioner.jpg',
     3: 'television-aircondictioner.jpg', 4: 'light.jpg', 5: 'television-light.jpg', 6: 'aircondictioner-light.jpg',

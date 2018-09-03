@@ -1,3 +1,10 @@
+button{
+    border-radius: 10px;
+    font-size: 30px;
+    cursor: pointer;
+    outline: none;
+}
+
 .on{
     font-family: 'courier new', courier, monospace;
     margin: 5%;
